@@ -46,9 +46,9 @@ Make sure to configure your MongoDB connection string in the environment variabl
 /shared     - Common utilities, helpers, or components
 
 ### Key Learning Outcomes
-Component-based UI development with React
-State and props management
-API creation and consumption with Node.js and Express
-Database operations with MongoDB (CRUD)
-Full-stack integration
-Gamification implementation to improve user engagement
+- Component-based UI development with React
+- State and props management
+- API creation and consumption with Node.js and Express
+- Database operations with MongoDB (CRUD)
+- Full-stack integration
+- Gamification implementation to improve user engagement
